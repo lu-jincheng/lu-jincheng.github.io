@@ -85,10 +85,10 @@ author:
   bio              : "Senior R&D Engineer at the Department of Computer Vision Technology (VIS), Baidu Inc."
   location         : "Shanghai, China"
   employer         :
-  pubmed           : ""
+  pubmed           :
   googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=p4cUjhcAAAAJ"
   email            : "lujincheng01@baidu.com"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Jincheng-Lu-2"
   uri              :
   bitbucket        :
   codepen          :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "troy路金诚"
   orcid            :
   pinterest        :
   soundcloud       :
